@@ -1,1 +1,13 @@
-# SOFTWARE EXOESQUELETO 
+# PROYECTO FINAL EXOESQUELETO DE REHABILITACIÓN DE MANO
+Descripción del Proyecto
+Este proyecto tiene como propósito diseñar y desarrollar un exoesqueleto de mano orientado a la rehabilitación de personas que han sufrido un accidente cerebrovascular (ACV). El dispositivo busca mejorar la eficacia y accesibilidad de la terapia de recuperación motora mediante un enfoque innovador que combina ergonomía, tecnología avanzada y fabricación accesible.El desarrollo sigue una metodología integral que abarca desde la identificación de las necesidades del paciente hasta la validación clínica del dispositivo. Inicialmente, se definen los requerimientos específicos del exoesqueleto, considerando los movimientos clave de rehabilitación, como la flexión y extensión de los dedos, ajustados a los rangos articulares recomendados por la fisioterapia. El diseño se basa en principios ergonómicos para garantizar que el dispositivo sea anatómicamente adaptado, cómodo y seguro para los usuarios. Además, se incorpora un sensor EMG para captar las señales musculares del paciente, permitiendo un control en tiempo real, y un actuador (servomotor) que asiste en los movimientos funcionales de la mano. Para optimizar costos y personalización, se opta por el uso de materiales compatibles con impresión 3D en la construcción del dispositivo. Esto facilita la fabricación de piezas adaptadas a la anatomía de cada paciente y reduce significativamente el costo de producción. Una vez definido el diseño preliminar, se procede a construir un prototipo que combina las piezas mecánicas con los componentes electrónicos. El prototipo se somete a pruebas iniciales para evaluar su funcionalidad, seguridad estructural y desempeño en un entorno controlado.
+Finalmente, el exoesqueleto se validará en un entorno clínico, evaluando su efectividad en la mejora de la rehabilitación motora, así como su aceptación por parte de los pacientes y fisioterapeutas.
+Objetivos
+Objetivo General 
+Desarrollar un exoesqueleto de rehabilitación de mano para personas con ACV en Bolivia, que permita mejorar la eficacia y accesibilidad de la terapia de recuperación motora, con un enfoque en la funcionalidad y monitoreo de los movimientos de la mano.
+Objetivos Específicos
+- Diseñar la estructura mecánica del exoesqueleto de mano.  
+- Implementar sensor EMG para controlar en tiempo real el rango de movimiento y la intensidad de los ejercicios realizados.
+- Desarrollar un sistema de control y actuadores que permita al exoesqueleto asistir en los movimientos de flexión y extensión          funcionales.
+- Integrar una interfaz para el fisioterapeuta que permita supervisar y ajustar los parámetros de la terapia.
+- Evaluar la eficacia del exoesqueleto en un entorno clínico, validando su efectividad.
